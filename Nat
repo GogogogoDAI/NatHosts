@@ -1,7 +1,5 @@
 ##github_00##
 ||githubusercontent.com^$dnstype=AAAA|HTTPS,dnsrewrite=NOERROR
-||objects.githubusercontent.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||raw.githubusercontent.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ##github_01##
 ##google_00##
 ||gvt2.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
