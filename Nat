@@ -1,5 +1,5 @@
 ##github_00##
-||githubusercontent.com^$dnstype=AAAA|HTTPS,dnsrewrite=REFUSED
+||githubusercontent.com^$dnstype=AAAA|HTTPS,dnsrewrite=NOERROR
 ||objects.githubusercontent.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||raw.githubusercontent.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ##github_01##
@@ -10,7 +10,7 @@
 ||google.com$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||googleapis.com$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||gvt1.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||gvt1.com^$dnstype=AAAA,dnsrewrite=REFUSED
+||gvt1.com^$dnstype=AAAA,dnsrewrite=NOERROR
 @@||*mtalk.google.com^$dnstype=A
 @@||storage.googleapis.com^
 @@||dl.google.com^$dnstype=A
@@ -23,7 +23,7 @@
 @@||clientservices.googleapis.com^
 @@||safebrowsing.googleapis.com^
 ||ampproject.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||ampproject.org^$dnstype=AAAA,dnsrewrite=REFUSED
+||ampproject.org^$dnstype=AAAA,dnsrewrite=NOERROR
 ||gmail.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||gmx.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||goodreads.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
@@ -174,7 +174,7 @@
 ||topjohnwu.medium.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||telesco.pe^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 #||hath.network^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-#||hath.network^$dnstype=AAAA,dnsrewrite=REFUSED
+#||hath.network^$dnstype=AAAA,dnsrewrite=NOERROR
 ||telemetr.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||privacy.aiuys.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||cdn.jsdelivr.net^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
@@ -215,7 +215,7 @@
 ||f-droid.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 
 ##manhua_00##
-||toptoon.buzz^$dnstype=AAAA,dnsrewrite=REFUSED
+||toptoon.buzz^$dnstype=AAAA,dnsrewrite=NOERROR
 ||img.jiuyaomanhua.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||mhua5.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||roum*.xyz^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
@@ -304,10 +304,9 @@
 ||sourceforge.net^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-#||docker.io^$dnstype=AAAA,dnsrewrite=REFUSED
+||docker.io^$dnstype=AAAA,dnsrewrite=NOERROR
 ||dl.google.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||debian.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 
 ||flashboot.ru^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||freedesktop.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
