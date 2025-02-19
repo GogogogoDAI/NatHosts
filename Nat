@@ -304,7 +304,7 @@
 ||sourceforge.net^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||docker.io^$dnstype=AAAA,dnsrewrite=REFUSED
+#||docker.io^$dnstype=AAAA,dnsrewrite=REFUSED
 ||dl.google.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||debian.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
