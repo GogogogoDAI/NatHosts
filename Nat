@@ -4,6 +4,8 @@
 ||github.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
 ||github.com^$dnstype=AAAA|HTTPS,dnsrewrite=NOERROR
 ||githubassets.com^$dnstype=AAAA|HTTPS,dnsrewrite=NOERROR
+||githubusercontent.com^$important,dnsrewrite=NOERROR;A;185.199.108.133
+||githubusercontent.com^$important,dnsrewrite=NOERROR;A;185.199.109.133
 ||githubusercontent.com^$dnstype=AAAA|HTTPS,dnsrewrite=NOERROR
 ||amazonaws.com^$dnstype=AAAA|HTTPS,dnsrewrite=NOERROR
 ##github_01##
