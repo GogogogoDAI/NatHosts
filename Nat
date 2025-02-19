@@ -97,6 +97,7 @@
 ||yuoimg.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
 ##good_web_00##
 ||haijiao.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
+||hjpfe1.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
 ||dbz4.cc^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
 ||dbzhu.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
 ||fyptt.to^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
