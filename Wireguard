@@ -14,7 +14,7 @@
 ||docker.io^$client="Pixel",dnsrewrite=NOERROR;A;10.10.0.10
 ##google_00##
 ||gvt2.com^$client="Pixel",dnsrewrite=NOERROR;A;10.10.0.10
-||google.*^$client="Pixel",dnsrewrite=NOERROR;A;10.10.0.10
+||google.*^$client="Pixel"|10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10
 ||gvt3.com^$client="Pixel",dnsrewrite=NOERROR;A;10.10.0.10
 ||googleapis.com$client="Pixel",dnsrewrite=NOERROR;A;10.10.0.10
 ||gvt1.com^$client="Pixel",dnsrewrite=NOERROR;A;10.10.0.10
