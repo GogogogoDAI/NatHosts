@@ -95,7 +95,7 @@
 ##pixiv_01##
 ||v2ex.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||yuoimg.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
-##good_web_00##
+##adult_web_00##
 ||haijiao.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||hjpfe1.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||dbz4.cc^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
@@ -113,7 +113,11 @@
 ||sexinsex.net^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||eyny.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||pornhub.*^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
-##good_web_01##
+||xchina.*^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+||hjd2048.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+||sex8.cc^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+||kaizty.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+##adult_01##
 ||archive.org^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||branch.io^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||reddit.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
