@@ -50,7 +50,7 @@
 ||googlestore.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||tensorflow.org^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||googlechinawebmaster.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
-||youtube.com^$dnstype=~AAAA|~CNAME
+||youtube.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||gstatic.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 @@||supl.google.com^$important
 @@||semanticlocation-pa.googleapis.com^$important
@@ -64,9 +64,9 @@
 ||gmodules.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||googleweblight.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||googlezip.net^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
-||youtu.be^$dnstype=~AAAA|~CNAME
-||youtube-nocookie.com^$dnstype=~AAAA|~CNAME
-||ytimg.com^$dnstype=~AAAA|~CNAME
+||youtu.be^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+||youtube-nocookie.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+||ytimg.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||googlevideo.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||you-get.org^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||1e100.net^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
