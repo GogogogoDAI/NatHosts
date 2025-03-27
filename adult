@@ -19,3 +19,4 @@
 ||hjd2048.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||sex8.cc^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||kaizty.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
+||seselah.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
