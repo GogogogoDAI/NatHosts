@@ -282,7 +282,7 @@
 ||omdbapi.com^$client='10.10.0.21',dnsrewrite=NOERROR;A;10.10.0.10
 
 #|p2p*.reolink.com^$dnsrewrite=NOERROR;A;47.107.253.101
-|p2p*.reolink.com^$dnsrewrite=NOERROR;A;8.129.3.62
+|p2p*.reolink.com^$dnsrewrite=NOERROR;A;47.107.230.127
 ||cavelab.dev^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 
 ||justuseapp.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
