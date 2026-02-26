@@ -18,7 +18,7 @@
 ||gvt3.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||googleapis.com$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
 ||gvt1.com^$client=10.10.0.0/24|Pixel,dnsrewrite=NOERROR;A;10.10.0.10
-@@||*mtalk.google.com^$dnstype=A
+@@||*mtalk.google.com^
 @@||storage.googleapis.com^
 @@||dl.google.com^$dnstype=A
 @@||www.googleadservices.com^$dnstype=A
