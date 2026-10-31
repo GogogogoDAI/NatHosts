@@ -1,11 +1,15 @@
+||github.com^$dnsrewrite=NOERROR;A;10.10.0.10
 ||github.com^$dnsrewrite=NOERROR;A;20.205.243.166
 ||github.com^$dnsrewrite=NOERROR;A;20.27.177.113
 ||github.com^$dnsrewrite=NOERROR;A;4.237.22.38
 ||github.com^$dnsrewrite=NOERROR;A;20.26.156.215
 ||github.com^$dnsrewrite=NOERROR;A;20.87.245.0
+||raw.githubusercontent.com^$dnsrewrite=NOERROR;A;10.10.0.10
 ||raw.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.111.133
 ||raw.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
+||avatars.githubusercontent.com^$dnsrewrite=NOERROR;A;10.10.0.1p
 ||avatars.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.111.133
 ||avatars.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
+||github.githubassets.com^$dnsrewrite=NOERROR;A;10.10.0.10
 ||github.githubassets.com^$dnsrewrite=NOERROR;A;185.199.109.215
 ||github.githubassets.com^$dnsrewrite=NOERROR;A;185.199.111.215
