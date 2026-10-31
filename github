@@ -5,3 +5,5 @@
 ||github.com^$dnsrewrite=NOERROR;A;20.87.245.0
 ||raw.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.111.133
 ||raw.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
+||avatars.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.111.133
+||avatars.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
