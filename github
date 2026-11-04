@@ -1,4 +1,4 @@
-||github.com^$dnsrewrite=NOERROR;A;10.10.0.10
+#||github.com^$dnsrewrite=NOERROR;A;10.10.0.10
 ||github.com^$dnsrewrite=NOERROR;A;20.205.243.166
 ||github.com^$dnsrewrite=NOERROR;A;20.27.177.113
 ||github.com^$dnsrewrite=NOERROR;A;4.237.22.38
